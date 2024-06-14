@@ -1,2 +1,2 @@
 # INTERNSHIP
-This is a practice repository. 
+This is a practice repository for internship.
